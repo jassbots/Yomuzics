@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "6180225412",
         "required": true
       },
       "OWNER_ID": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
-        "value": "",
+        "value": "-1002139661881",
         "required": true
       }
     },
