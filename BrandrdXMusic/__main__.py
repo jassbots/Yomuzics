@@ -49,13 +49,13 @@ async def init():
     except:
         pass
     await Hotty.decorators()
-    LOGGER("punjabiii_chat").info(
+    LOGGER("BrandrdXMusic").info(
         "ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @unknown_bande , @punjabiii_chat ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("punjabiii_chat").info("Stopping Brandrd Music Bot...")
+    LOGGER("BrandrdXMusic").info("Stopping Brandrd Music Bot...")
 
 
 if __name__ == "__main__":
