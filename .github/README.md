@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 𝗕𝗥𝗔𝗡𝗗𝗥𝗗 ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
+    ── ~𝙔𝙤 𝙈𝙪𝙨𝙞𝙘𝙗𝙤𝙏 🎶 ──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/29626078a1324cf58ce2a.jpg">
+  <img src="https://telegra.ph/file/ad3b8fcd49ead5d0e4068.jpg">
 </p>
 
 <p align="center">
