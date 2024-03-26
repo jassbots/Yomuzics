@@ -13,7 +13,7 @@ from BrandrdXMusic import app
 from BrandrdXMusic.core.userbot import assistants
 from BrandrdXMusic.misc import SUDOERS, mongodb
 from BrandrdXMusic.plugins import ALL_MODULES
-from BrandrdXMusic.utils.database import get_served_chats, get_served_users, get_sudoers, get_queries
+from BrandrdXMusic.utils.database import get_served_chats, get_served_users, get_sudoers
 from BrandrdXMusic.utils.decorators.language import language, languageCB
 from BrandrdXMusic.utils.inline.stats import back_stats_buttons, stats_buttons
 from config import BANNED_USERS
@@ -52,14 +52,12 @@ async def overall_stats(client, CallbackQuery, _):
     await CallbackQuery.edit_message_text(_["gstats_1"].format(app.mention))
     served_chats = len(await get_served_chats())
     served_users = len(await get_served_users())
-    total_queries = await get_queries()
     text = _["gstats_3"].format(
         app.mention,
         len(assistants),
         len(BANNED_USERS),
         served_chats,
         served_users,
-        total_queries,
         len(ALL_MODULES),
         len(SUDOERS),
         config.AUTO_LEAVING_ASSISTANT,
@@ -134,4 +132,4 @@ async def bot_stats(client, CallbackQuery, _):
     except MessageIdInvalid:
         await CallbackQuery.message.reply_photo(
             photo=config.STATS_IMG_URL, caption=text, reply_markup=upl
-        )
+)
