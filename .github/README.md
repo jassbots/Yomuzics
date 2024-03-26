@@ -16,7 +16,7 @@
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [~𝙔𝙤 𝙈𝙪𝙨𝙞𝙘𝙗𝙤𝙏 🎶](https://t.me/musicYo_bot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [~𝙔𝙤 𝙈𝙪𝙨𝙞𝙘𝙗𝙤𝙏 🎶](https://t.me/musiicYo_bot)**
 
 
 
